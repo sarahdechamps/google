@@ -1,0 +1,82 @@
+*
+{
+	font-family:arial;
+	font-size:14px;
+}
+
+.header
+{
+	display: flex;
+	justify-content: flex-end;
+}
+
+
+#conteneur
+
+{
+display : flex;
+width: 200 px;
+margin: auto;
+}
+
+
+.image
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.loupe
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer
+{
+	background: #F5F4F4;
+	border-color: grey;
+	color: black;
+	text-decoration: none;
+	padding: 7px 30px;
+}
+
+.recherche_p
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.info
+{
+    display: flex;
+    justify-content: flex-end;
+    text-decoration: none;
+    color: black;
+    background: #F5F4F4;
+    padding: 10px 20px;
+}
+
+.bouton1
+{
+    padding:10px 30px;
+    text-decoration: none;
+    color: black;
+    border-radius:8px;
+    background: #F5F4F4;
+    margin-top: 200px;
+    margin-left:500px;
+}
+
+.bouton2
+{
+  padding:10px 30px;
+    text-decoration: none;
+    color: black;
+    border-radius:8px;
+    background: #F5F4F4; 
+}
+
